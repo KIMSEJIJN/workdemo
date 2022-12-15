@@ -80,9 +80,17 @@
 
   ### 글자 강조
   **굵은 글씨 **
-  _이텔릭_ㅕ
+  _이텔릭_
   _이텔릭_
   ..취소선..
   <u>밑줄</u>
 
+  ### 링크(Links)
 
+[naver](https://www.naver.com/)
+[link](a.txt)
+
+다음 홈페이지 : <https://www.daum.net/>
+
+### 이미지(images)
+![naver]
