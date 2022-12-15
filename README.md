@@ -85,7 +85,7 @@
   ..취소선..
   <u>밑줄</u>
 
-  ### 링크(Links)
+### 링크(Links)
 
 [naver](https://www.naver.com/)
 [link](a.txt)
@@ -93,7 +93,11 @@
 다음 홈페이지 : <https://www.daum.net/>
 
 ### 이미지(images)
+
 ![naver](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F214%2F2022%2F12%2F03%2F0001239248_001_20221203115101380.jpg&type=a340)
 
 ![box](images/mobile.jpg)
-[![daum](images/daum.png)](https://t1.daumcdn.net/daumtop_chanel/op/20200723055344399.png)
+[![daum](images/daum.png)](https://www.daum.net/)
+
+### 원시 HTML(Raw HTML)
+<img src='imgaes/daum.png' alt='daum'>
