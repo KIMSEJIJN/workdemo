@@ -94,7 +94,7 @@
 
 ### 이미지(images)
 
-![naver](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F214%2F2022%2F12%2F03%2F0001239248_001_20221203115101380.jpg&type=a340)
+![naver](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F214%2F2022%2F12%2F03%2F0001239248_001_20221203115101380.jpg)
 
 ![box](images/mobile.jpg)
 [![daum](images/daum.png)](https://www.daum.net/)
